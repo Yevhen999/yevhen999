@@ -2,10 +2,6 @@
 <h3 align="center">A frontend developer. I focus on HTML, CSS, Javascript, React. Now my main goals are to prove myself in interesting projects and rapid professional growth.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yevhen999&label=Profile%20views&color=0e75b6&style=flat" alt="yevhen999" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yevhen999" target="blank"><img src="https://img.shields.io/twitter/follow/yevhen999?logo=twitter&style=for-the-badge" alt="yevhen999" /></a> </p>
-
 - 🔭 I’m currently working on **Filmoteka**
 
 - 🌱 I’m currently learning **React**
