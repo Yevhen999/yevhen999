@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Filmoteka**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **<a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>**
 
 - 📫 How to reach me **leshchenkoyevhen@gmail.com**
 
