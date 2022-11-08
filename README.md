@@ -2,9 +2,9 @@
 <h3 align="center">A frontend developer. I focus on HTML, CSS, Javascript, React. Now my main goals are to prove myself in interesting projects and rapid professional growth.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966"/>
 
-- 🔭 I’m currently working on **Filmoteka**
+- 🔭 I’m currently working on [Filmoteka](https://yevhen999.github.io/filmoteka-team-project-js/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning [React](https://reactjs.org/)
 
 - 📫 How to reach me **leshchenkoyevhen@gmail.com**
 
