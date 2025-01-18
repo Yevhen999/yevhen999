@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yevhen</h1>
 <h3 align="center">A Full Stack Developer. I intend to develop innovative technologies and deliver value to people.</h3>
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966"/>
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
 
  🔭 I’m currently working on [Weather App](https://weather-app-yevhen999.vercel.app/)
 
